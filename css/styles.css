@@ -41,19 +41,16 @@ img { max-width: 100%; height: auto; }
 }
 
 .header-1 {
-  position: absolute;
   left: 800px;
   top: 180px;
 }
 
 .top-cloud {
-  position: absolute;
   left: 1125px;
   top: 120px;
 }
 
 .bottom-cloud {
-  position: absolute;
   left: 650px;
   top: 350px;
 }
