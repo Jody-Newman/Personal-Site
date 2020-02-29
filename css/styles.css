@@ -1,0 +1,89 @@
+@viewport {
+  width: device-width;
+  zoom: 1.0 ;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Sacramento', serif;
+  font-size: 60px;
+}
+
+h2 {
+  font-family: 'Sue Ellen Francisco', serif;
+  font-size: 50px;
+}
+
+h3 {
+  font-family: 'Sue Ellen Francisco', serif;
+  font-size: 30px;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+}
+
+img { max-width: 100%; height: auto; }
+
+/*************************nav-bar***************************************/
+
+
+/*************************top container***************************************/
+.top-container {
+  background-color: #5BC8DD;
+  height: 970px;
+  padding-top: 50px;
+}
+
+.header-1 {
+  position: absolute;
+  left: 800px;
+  top: 180px;
+}
+
+.top-cloud {
+  position: absolute;
+  left: 1125px;
+  top: 120px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 650px;
+  top: 350px;
+}
+
+.mountain-img {
+  position: relative;
+  top: 470px;
+}
+
+/*************************middle container***************************************/
+.middle-container {
+  background-color: #BCE8F2;
+  padding: 100px;
+}
+
+/*************************bottom container***************************************/
+.bottom-container {
+  background-color: #79bac1;
+  padding-top: 10px;
+
+}
+
+/*************************extras***************************************/
+
+.pro {
+  text-decoration: none;
+  color: #BCE8F2;
+}
+
+.btn {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+}
